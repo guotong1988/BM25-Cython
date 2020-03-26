@@ -1,2 +1,2 @@
-# BM25-Cython
+# Fast BM25-Cython
 working in progress
